@@ -1,3 +1,5 @@
+React searching movie app is an Application created using React with TMDBs API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
